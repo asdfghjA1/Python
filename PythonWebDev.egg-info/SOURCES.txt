@@ -1,0 +1,6 @@
+README.md
+setup.py
+PythonWebDev.egg-info/PKG-INFO
+PythonWebDev.egg-info/SOURCES.txt
+PythonWebDev.egg-info/dependency_links.txt
+PythonWebDev.egg-info/top_level.txt

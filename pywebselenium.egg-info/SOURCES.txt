@@ -1,0 +1,6 @@
+README.md
+setup.py
+pywebselenium.egg-info/PKG-INFO
+pywebselenium.egg-info/SOURCES.txt
+pywebselenium.egg-info/dependency_links.txt
+pywebselenium.egg-info/top_level.txt
